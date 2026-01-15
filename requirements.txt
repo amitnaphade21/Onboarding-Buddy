@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+neo4j
+pinecone-client
+requests
+python-dotenv
+pydantic
+tqdm

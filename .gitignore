@@ -1,0 +1,89 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+.env/
+.env.*
+.venv/
+
+# ========================
+# Streamlit
+# ========================
+.streamlit/secrets.toml
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+
+# ========================
+# OS / Editor junk
+# ========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Neo4j
+# ========================
+data/
+logs/
+import/
+plugins/
+neo4j.conf
+__pycache__/
+# ========================
+# Ollama / Models / Cache
+# ========================
+models/
+.cache/
+.cache/*
+*.bin
+
+# ========================
+# Node (if ever used)
+# ========================
+node_modules/
+
+# ========================
+# Build artifacts
+# ========================
+*.exe
+*.dll
+*.app
+
+# ========================
+# Secrets
+# ========================
+*.key
+*.pem
+*.crt
+secrets.json
+
+# ========================
+# Temporary files
+# ========================
+*.tmp
+*.temp
+*.bak
