@@ -592,18 +592,4 @@ This project is part of GlideCloud's onboarding initiative.
 
 ---
 
-## ✅ Checklist Before Demonstration
 
-- [ ] All services running (Ollama, Neo4j, FastAPI)
-- [ ] `.env` file configured correctly
-- [ ] Documents ingested (`python ingestion/ingest_docs.py`)
-- [ ] Tests passing (`python test.py`)
-- [ ] Frontend accessible (`http://localhost:8501`)
-- [ ] Backend healthy (`http://localhost:8000/`)
-- [ ] Sample questions prepared
-
----
-
-**Last Updated:** January 2026  
-**Version:** 1.0  
-**Status:** ✅ Production Ready
